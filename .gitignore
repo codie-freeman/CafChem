@@ -1,0 +1,19 @@
+# Hugging Face model caches - downloaded at runtime, far over GitHub's file size limit
+models/
+*.safetensors
+*.bin
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.cc-history
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
