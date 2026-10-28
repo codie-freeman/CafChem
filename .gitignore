@@ -17,3 +17,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# Run artifacts written by the notebooks
+notebooks/test.xyz

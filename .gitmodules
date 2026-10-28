@@ -1,0 +1,6 @@
+[submodule "Resources/scientific-computing-for-chemists"]
+	path = Resources/scientific-computing-for-chemists
+	url = https://github.com/codie-freeman/scientific-computing-for-chemists
+[submodule "Resources/Cheminformatics"]
+	path = Resources/Cheminformatics
+	url = https://github.com/codie-freeman/Cheminformatics.git
