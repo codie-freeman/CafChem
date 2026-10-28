@@ -20,3 +20,10 @@ venv/
 
 # Run artifacts written by the notebooks
 notebooks/test.xyz
+
+# Hallet workshop datasets - large, and re-downloadable from Blackboard.
+# Re-extract from Hallet Notebooks/_source-archives/ (see that folder's README).
+Hallet Notebooks/_source-archives/
+Hallet Notebooks/2 - Peak Fitting and Image Analysis/BBBC015_v1_images/
+Hallet Notebooks/4 - Time-Resolved UV-Vis/data/
+Hallet Notebooks/Workshop - 2D Object Tracking/data/
